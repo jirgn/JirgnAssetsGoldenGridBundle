@@ -24,5 +24,5 @@ add following code to your app/AppKernel.php::
 	public function registerBundles()
 		{
 		...
-		new Jirgn\Assets\JQueryBundle\JirgnAssetsGoldenGridBundle(),
+		new Jirgn\Assets\GoldenGrid\JirgnAssetsGoldenGridBundle(),
 	}
